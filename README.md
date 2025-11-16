@@ -31,5 +31,4 @@ Human-in-the-loop	Limited user evaluation	LLM-driven coherence scoring, domain a
 Output Interpretability	Static plots, qualitative summaries	Interactive visualizations, trace-level causal chains, uncertainty-aware explanations
 System Integration	Academic prototype	Enterprise-oriented, modular, API-first architecture
  
-By addressing limitations identified in the MDPI framework, particularly explanation instability and misalignment with process semantics. StableXAI aspires to make XAI for PPM more trustworthy, actionable, and operationally deployable. This proposal advances the state of the art by blending explainability engineering, robust statistics, and business process analytics into a unified methodology for next-generation predictive process monitoring.
-<img width="468" height="627" alt="image" src="https://github.com/user-attachments/assets/943acad7-e2be-4303-bd8a-9998a0b08cb0" />
+By addressing limitations identified in the MDPI framework, particularly explanation instability and misalignment with process semantics. StableXAI aspires to make XAI for PPM more trustworthy, actionable, and operationally deployable. 
