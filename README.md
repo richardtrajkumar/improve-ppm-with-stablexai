@@ -18,17 +18,8 @@ This research will deliver:
 •	A reference implementation of StableXAI compatible with standard PPM models (LSTM, XGBoost, RF, Transformers).
 •	A synthetic and real-log benchmark suite to evaluate XAI stability under controlled and realistic variations.
 •	Visual analytics tools for explainability dashboards integrating uncertainty, attribution maps, and process-aware overlays.
-High-Level Diagram of Framework Improvements
- 
+
+
 This enhanced proposal positions StableXAI as a robust extension to the original XAI-PPM framework, enabling scalable, trustworthy, and human-aligned predictive monitoring for real-world workflow and process intelligence systems.
-MDPI Framework vs. StableXAI Improvements
-Dimension	Original Framework	StableXAI Improvements
-XAI Scope	Focus on classical techniques (LIME, SHAP, Grad-CAM)	Adds stochastic stability metrics, multi-modal explainers, and temporal attribution methods
-Reproducibility	Manual experiments, limited automation	Fully automated pipelines, config-driven experiments, version-controlled datasets
-Model Coverage	Primarily deep and ML models used in PPM	Adds transformers, GNNs, hybrid sequence models, and simulation-based predictors
-Evaluation Metrics	Fidelity, accuracy, error-based metrics	Adds stability, sensitivity, counterfactual consistency, semantics-based metrics
-Human-in-the-loop	Limited user evaluation	LLM-driven coherence scoring, domain alignment, interactive dashboards
-Output Interpretability	Static plots, qualitative summaries	Interactive visualizations, trace-level causal chains, uncertainty-aware explanations
-System Integration	Academic prototype	Enterprise-oriented, modular, API-first architecture
  
 By addressing limitations identified in the MDPI framework, particularly explanation instability and misalignment with process semantics. StableXAI aspires to make XAI for PPM more trustworthy, actionable, and operationally deployable. 
