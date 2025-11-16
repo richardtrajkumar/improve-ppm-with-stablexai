@@ -13,6 +13,7 @@ Extending the paper’s empirical analysis, we propose new evaluation metrics:
 o	Explanation Stability Index (ESI) across trace perturbations
 o	Actionability Score (AS) based on expert validation
 o	Process Fidelity Ratio (PFR) measuring alignment between explanations and ground-truth process structures
+
 These go beyond accuracy-oriented metrics and provide more rigorous assessments of explanation quality.
 This research will deliver:
 •	A reference implementation of StableXAI compatible with standard PPM models (LSTM, XGBoost, RF, Transformers).
